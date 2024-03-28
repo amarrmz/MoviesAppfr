@@ -6,3 +6,5 @@ Feature: Filter
     Given User at main movies screen
     When  User clicks on the details button
     Then  User should be redirected to details screen
+
+    # Filter functionality not available
