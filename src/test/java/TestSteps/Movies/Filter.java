@@ -7,7 +7,6 @@ import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-import static TestSteps.Movies.Hooks.driver;
 import static TestSteps.Movies.Hooks.wait;
 
 
@@ -16,7 +15,10 @@ public class Filter {
     @Given("User at main movies screen")
     public void User_at_main_movies_screen() {
         //validate that user at main screen
-        Assert.assertTrue(wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("com.skydoves.themovies:id/toolbar_title"))).isDisplayed());
+
+            Assert.assertTrue(wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("com.skydoves.themovies:id/toolbar_title"))).isDisplayed());
+
+
     }
 
 

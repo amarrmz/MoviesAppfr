@@ -5,7 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d24a7ef-f3da-4cfc-a7d5-e1aea8a47362" name="Changes" comment="Updating pom.xml">
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_012553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_012711.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_022822.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_022954.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_024038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_024240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_024418.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_024606.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_024654.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_031825.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_032122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_032240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_032402.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_032441.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_032700.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_033140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_033237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_033835.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_034212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_035204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_035307.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_040025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_040538.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_040617.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_040741.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_224338.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_230816.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_231038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed_scenarios/going_from_main_movies_list_screen_to_the_details_screen_of_the_app_231123.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Movies/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSteps/Movies/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Movies/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSteps/Movies/Hooks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
